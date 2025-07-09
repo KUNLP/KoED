@@ -3,8 +3,6 @@
 ## Introduction
 **KoED** (Korean Benchmark for Culturally Aligned Empathetic Dialogue) is a benchmark dataset constructed by [KUNLP Lab](http://nlp.konkuk.ac.kr/) (main contributors: Woojin Lee and Yujin Sim), designed to evaluate the ability of Large Language Models (LLMs) to generate empathetic dialogues within Korean cultural contexts. Empathy is essential for AI to integrate naturally into human interactions, and KoED overcomes the limitations of existing English-centric datasets (e.g., EmpatheticDialogues) by providing dialogues that reflect Korean culture and emotional expressions.   
 
-Official repository: [KUNLP Github](https://github.com/KUNLP) (Will be uploaded soon.)
-
 ## Dataset Description
 KoED includes Korean dialogues tailored to Korean cultural contexts along with English translations, providing emotion labels and dialogue turns that capture unique Korean sentiments and situations.
 
